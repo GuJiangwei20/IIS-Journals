@@ -30,7 +30,9 @@ Journals of Information and Intelligence Science (IIS)
 
 
 # 档案
-+ [档案学通讯]
++ [档案学通讯](http://daxtx.net/CN/1001-201X/home.shtml)
++ [档案学研究](http://journal12.magtechjournal.com/Jwk_dax/CN/column/column1.shtml)
++ [African Journal of Library Archives and Information Science](https://www.ajol.info/index.php/ajlais)
 
 
 ---
